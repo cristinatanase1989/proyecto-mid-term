@@ -1,0 +1,51 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;  
+}
+
+
+.links{
+    display: flex;
+    justify-content: space-around;
+    align-items:center ;
+    padding: 15px 30px;
+    font-size: 40px;
+    width: 420px;
+    color:grey;
+    
+    
+}
+
+
+.links:hover{
+  
+    color:#072ac8;
+    
+}
+
+
+
+.button{
+    background-color:#072ac8;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border: none;
+    align-items: left;
+    font-size: 30px;
+}
+
+button:hover{
+    background-color: #292e47;
+}
+
+a{
+    text-decoration: none;
+
+}
+
+.circleLogo{
+    padding: 20px;
+    margin-left: 40px;
+}
